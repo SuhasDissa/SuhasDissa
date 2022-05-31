@@ -11,4 +11,4 @@ Python, Javascript, HTML, CSS...
 (still getting started on C++ and Java)
 
 ## My github stats
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=szsupunma" alt="szsupunma" /></p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=SuhasDissa" alt="SuhasDissa" /></p>
